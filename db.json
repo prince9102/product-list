@@ -1,0 +1,71 @@
+{
+  "register": [
+    {
+      "name": "Prince Jaiswal",
+      "email": "prince@gmail.com",
+      "role": "Admin",
+      "password": "Prince@123",
+      "cpassword": "Prince@123",
+      "id": 1
+    },
+    {
+      "name": "Abhishek Kumar",
+      "email": "abhishek@gmail.com",
+      "role": "User",
+      "password": "Abhi@123",
+      "cpassword": "Abhi@123",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@abc.com",
+      "role": "Admin",
+      "password": "test@123",
+      "cpassword": "test@123",
+      "id": 3
+    },
+    {
+      "name": "test user",
+      "email": "testus@abc.com",
+      "role": "User",
+      "password": "test@123",
+      "cpassword": "test@123",
+      "id": 4
+    },
+    {
+      "name": "prince jaiswal",
+      "email": "prince@gmail.com",
+      "role": "User",
+      "password": "Prince@9102",
+      "cpassword": "Prince@9102",
+      "id": 5
+    },
+    {
+      "name": "Divyanshu Mishra",
+      "email": "divyanshu.8174@gmail.com",
+      "role": "Admin",
+      "password": "test@123",
+      "cpassword": "test@123",
+      "id": 6
+    }
+  ],
+  "login": [],
+  "accessories": [
+    {
+      "name": "phone 2",
+      "price": 1500,
+      "modelnumber": 76,
+      "uniquenumber": 3851,
+      "intrested": "prince jaiswal",
+      "id": 2
+    },
+    {
+      "name": "test user",
+      "price": 444,
+      "modelnumber": 4444,
+      "uniquenumber": 4358,
+      "intrested": "test user",
+      "id": 3
+    }
+  ]
+}
